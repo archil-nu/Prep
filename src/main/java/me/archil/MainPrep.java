@@ -16,7 +16,7 @@ import me.archil.utils.Helpers;
  *
  * @author achiko
  */
-public class Prep {
+public class MainPrep {
 
     public static void main(String[] args) {
         int[] nums = { 5, 3, 8, 4, 2, 1, 5, 3, 8, 4, 2, 1, 5, 3, 8, 4, 2, 1 };
